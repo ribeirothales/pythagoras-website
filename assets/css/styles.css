@@ -433,7 +433,6 @@ footer p {
     .grid-one-content {
         display: block;
     }
-
     .menu {
         bottom: 0;
         text-align: center;
@@ -473,5 +472,11 @@ footer p {
     }
     .menu-spacing {
         display: none;
+    }
+    .resize {
+       
+        font-size: 3rem;
+        line-height: 4rem;
+        text-align: center;
     }
 }
