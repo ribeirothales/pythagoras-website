@@ -1,8 +1,9 @@
-# Pitágoras - O Portal sobre Pitágoras e o Pitagorismo ⚡
+# O Portal sobre Pitágoras e o Pitagorismo ⚡
 
 Bem-vindo ao **Pitágoras**, um site moderno e dinâmico dedicado ao estudo do pitagorismo, sua influência na filosofia e sua relação com o pensamento platônico. Aqui, você encontra conteúdo sobre as doutrinas pitagóricas e a influência do pitagorismo no *Fédon* e outras obras de Platão.
 
-- Acesse agora: (https://github.com/ribeirothales/pitagoras-hub)
+- Acesse agora: (https://pythagoras-website.netlify.app/)
+
 
 ![Pitágoras Ilustração](https://i.imgur.com/kPdbmjG.png)
 
